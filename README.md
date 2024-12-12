@@ -25,8 +25,7 @@ An interpreted, object-oriented, high-level programming language that I mainly u
 	- [Plotly](https://plotly.com/python/): I usually use this one to make an interactive visualization, where viewer can hover their mouse to see more detailed data.  
 
 - [SQL](https://www.w3schools.com/sql/sql_quickref.asp)  
-A language I usually used to write a query on db files.  
-The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com/)  
+A language I usually use to write a query on db files. The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com/).  
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
 
 ## Projects
