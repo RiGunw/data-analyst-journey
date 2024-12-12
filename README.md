@@ -19,7 +19,7 @@ as long as we installed the required resources.
 - [Python](https://www.python.org/)  
 An interpreted, object-oriented, high-level programming language that I mainly use for Data Analysis.  Some of the common libraries that I often use are:  
 	- [Pandas](https://pandas.pydata.org/docs/): Mainly used for so many necessities to do Data Analysis, one of the most important libraries!  
-	- [Numpy](https://numpy.org/doc/stable/): Often used for operating scientific computing on Python, including multidimentional array objects.  
+	- [Numpy](https://numpy.org/doc/stable/): Often used for operating scientific computing on Python, including multidimensional array objects.  
 	- [Seaborn](https://seaborn.pydata.org/): One of the most common libraries I often use to visualize basic plots such as bar chart or scatterplot, it's light and simple.  
 	- [Matplotlib](https://matplotlib.org/): Another alternative to visualize some plots. We can even combine it with Seaborn, for example to make a heatmap or line chart.  
 	- [Plotly](https://plotly.com/python/): I usually use this one to make an interactive visualization, where viewer can hover their mouse to see more detailed data.  
