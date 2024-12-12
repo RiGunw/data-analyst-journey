@@ -33,20 +33,20 @@ The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com
 Below are some of the projects I previously did to practice my Data Analysis:
 ### Project 1: eCommerce Dataset
 - Trends and insights based on ID, products and their categories, payment methods, dates, with all their possible correlations.
-- [Python Implementation](Projects/eCommerce/Python/ecommerce_analysis.py) || [Full Folder](Projects/eCommerce)
+- [Python Implementation](Projects/eCommerce/Python/ecommerce_analysis.ipynb) || [Full Folder](Projects/eCommerce)
 
 ### Project 2: Finance Dataset
 - Analyzing trends, ratio, correlations, potential outliers, and performance projections based on revenue, expense, and profit.
-- [Python Implementation](Projects/Finance/Python/financial_data_analysis.py) || [Full Folder](Projects/Finance)
+- [Python Implementation](Projects/Finance/Python/financial_data_analysis.ipynb) || [Full Folder](Projects/Finance)
 
 ### Project 3: Social Media Dataset
 - An analysis on engagement and user impacts on social media.
-- [Python Implementation](Projects/SocialMedia/Python/socmed_analysis.py) || [Full Folder](Projects/SocialMedia)
+- [Python Implementation](Projects/SocialMedia/Python/socmed_analysis.ipynb) || [Full Folder](Projects/SocialMedia)
 
 ### Project 4: Retail Sales Dataset EDA
 - My first attempt on analyzing a retail store sales dataset on EDA format.
-- [Python Implementation](Projects/RetailSalesEDA/Python/retail_sales_EDA.py) || [Full Folder](Projects/RetailSalesEDA)
+- [Python Implementation](Projects/RetailSalesEDA/Python/retail_sales_EDA.ipynb) || [Full Folder](Projects/RetailSalesEDA)
 
 ### Project 5: Real Case EDA - Youtube Statistic 2023
 - A fully detailed EDA attempt on a real case dataset regarding Youtube Statistics on 2023
-- [Python Implementation](Projects/YoutubeStatistic2023/Python/YoutubeStats2023.py) || [Full Folder](Projects/YoutubeStatistic2023)
+- [Python Implementation](Projects/YoutubeStatistic2023/Python/YoutubeStats2023.ipynb) || [Full Folder](Projects/YoutubeStatistic2023)
