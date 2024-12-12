@@ -16,9 +16,7 @@ Alternatively, we can also use Visual Studio Code as an IDE to write Python, SQL
 as long as we installed the required resources. 
 
 ### Skills and Documentations:
-- [Python](https://www.python.org/)
-
-
+- [Python](https://www.python.org/)  
 An interpreted, object-oriented, high-level programming language that I mainly use for Data Analysis.  Some of the common libraries that I often use are:  
 	- [Pandas](https://pandas.pydata.org/docs/): Mainly used for so many necessities to do Data Analysis, one of the most important libraries!  
 	- [Numpy](https://numpy.org/doc/stable/): Often used for operating scientific computing on Python, including multidimentional array objects.  
@@ -26,9 +24,7 @@ An interpreted, object-oriented, high-level programming language that I mainly u
 	- [Matplotlib](https://matplotlib.org/): Another alternative to visualize some plots. We can even combine it with Seaborn, for example to make a heatmap or line chart.  
 	- [Plotly](https://plotly.com/python/): I usually use this one to make an interactive visualization, where viewer can hover their mouse to see more detailed data.  
 
-- [SQL](https://www.w3schools.com/sql/sql_quickref.asp)
-
-
+- [SQL](https://www.w3schools.com/sql/sql_quickref.asp)  
 A language I usually used to write a query on db files.  
 The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com/)  
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
