@@ -5,11 +5,11 @@ You can see my roadmap below:
 ## Getting Started
 ### 🔧Tools and Environments:
 - [Ms. Excel](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9)  
-It helps to take a quick glance on some .csv files, we can also do some basic data cleansing when not using python, or do Pivot Analysis.
+It helps to take a quick glance on some .csv files, we can also do some basic data cleansing when not using Python, or do Pivot Analysis.
 
 - [Anaconda Navigator](https://docs.anaconda.com/navigator/)  
 Anaconda Navigator is a desktop graphical user interface that serves as some sort of portal to many useful application tools for Data Analysis.
-The one that I often use to write python is [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/).
+The one that I often use to write Python is [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/).
 
 - [Visual Studio Code](https://code.visualstudio.com/docs)  
 Alternatively, we can also use Visual Studio Code as an IDE to write Python, SQL Queries, or even use terminal mode (e.g VIM or NVIM), 
