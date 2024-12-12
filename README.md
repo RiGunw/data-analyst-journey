@@ -1,5 +1,5 @@
 <h1 style="font-family:'Courier New'; color:burlywood;">🧭Data Analyst Journey</h1>
-Welcome to my portfolio, showcasing my learning journey as a Data Analyst!  
+Welcome to my portfolio showcasing my learning journey as a Data Analyst! <br>
 You can see my roadmap below:
 
 ## Getting Started
