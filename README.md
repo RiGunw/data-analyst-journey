@@ -1,9 +1,9 @@
-<h1 style="font-family:'Courier New'; color:burlywood;">Data Analyst Journey</h1>
+<h1 style="font-family:'Courier New'; color:burlywood;">🧭Data Analyst Journey</h1>
 Welcome to my portfolio showcasing my learning journey as a Data Analyst.  
 You can see my roadmap below:
 
 ## Getting Started
-### Tools and Environments:
+### 🔧Tools and Environments:
 - [Ms. Excel](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9)  
 It helps to take a quick glance on some .csv files, we can also do some basic data cleansing when not using python, or do Pivot Analysis.
 
@@ -15,7 +15,7 @@ The one that I often use to write python is [JupyterLab](https://jupyterlab.read
 Alternatively, we can also use Visual Studio Code as an IDE to write Python, SQL Queries, or even use terminal mode (e.g VIM or NVIM), 
 as long as we installed the required resources. 
 
-### Skills and Documentations:
+### 🔭Skills and Documentations:
 - [Python](https://www.python.org/)  
 An interpreted, object-oriented, high-level programming language that I mainly use for Data Analysis.  Some of the common libraries that I often use are:  
 	- [Pandas](https://pandas.pydata.org/docs/): Mainly used for so many necessities to do Data Analysis, one of the most important libraries!  
