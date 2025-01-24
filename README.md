@@ -29,7 +29,7 @@ A language I usually use to write a query on db files. The IDE that I often use 
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
 
 ## Trying Out Python!
-To start, I've tried and wrote some important basic essentials of python lines.  
+For starters, I've tried and wrote some important basic essentials of python lines.  
 The reference I used was from this video: https://youtu.be/fWjsdhR3z3c?si=UxBlrT9ZxG6zaIx0  
 (Shoutout to Indently Channel, a really good educational youtube channel!)
 
