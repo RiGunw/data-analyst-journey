@@ -30,7 +30,7 @@ A language I usually use to write a query on db files. The IDE that I often use 
 
 ## Trying Out Python!
 For starters, I've tried and wrote some important basic essentials of python lines.  
-The reference I used was mainly from this video below but I added some things too:  https://youtu.be/fWjsdhR3z3c?si=UxBlrT9ZxG6zaIx0  
+The reference I used was mainly from this video below but I added some things too:   https://youtu.be/fWjsdhR3z3c?si=UxBlrT9ZxG6zaIx0  
 (Shoutout to Indently Channel, a really good educational youtube channel!)
 
 - [Python Implementation](Projects/BasicEssentials/Python/TestingGround.ipynb) || [Full Folder](Projects/BasicEssentials)
