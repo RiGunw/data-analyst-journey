@@ -28,6 +28,13 @@ An interpreted, object-oriented, high-level programming language that I mainly u
 A language I usually use to write a query on db files. The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com/).  
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
 
+## Trying Out Python!
+To start, I've tried and wrote some important basic essentials of python lines.  
+The reference I used was from this video: https://youtu.be/fWjsdhR3z3c?si=UxBlrT9ZxG6zaIx0  
+(Shoutout to Indently Channel, a really good educational youtube channel!)
+
+- [Python Implementation](Projects/BasicEssentials/Python/TestingGround.ipynb) || [Full Folder](Projects/BasicEssentials)
+
 ## Projects
 Below are some of the projects I previously did to practice my Data Analysis:
 ### 📊Project 1: eCommerce Dataset
