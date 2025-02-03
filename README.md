@@ -58,3 +58,5 @@ Below are some of the projects I previously did to practice my Data Analysis:
 ### 📊Project 5: Real Case EDA - Youtube Statistic 2023
 - A fully detailed EDA attempt on a real case dataset regarding Youtube Statistics on 2023
 - [Python Implementation](Projects/YoutubeStatistic2023/Python/YoutubeStats2023.ipynb) || [Full Folder](Projects/YoutubeStatistic2023)
+- I have also made a simple Dashboard showcasing Content Distributions using PowerBI. Unfortunately, I'm using the free version of PowerBI so I couldn't show the published, slicers-interactable Dashboard. Although, I can still show a PDF preview of it, feel free to download the .pbix file on the full folder if you'd like to see the offline version (interactable) through your own PowerBI!
+- [Dashboard PDF Preview](Projects/YoutubeStatistic2023/PowerBI/YoutubeStatistics2023Dashboard.pdf) || [Full Folder](Projects/YoutubeStatistic2023/PowerBI)
