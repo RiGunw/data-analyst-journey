@@ -72,7 +72,7 @@ Below are some of the projects I previously did to practice my Data Analysis:
 
 ### 📊Project 7: eCommerce SQL Analysis (2025)
 - A comprehensive progress of data analysis regarding an eCommerce dataset using PostgreSQL and Data Visualization using Python
-- [Full Preview and Instructions](Projects/E-Commerce SQL (2025))
+- [Full Preview and Instructions](https://github.com/RiGunw/data-analyst-journey/tree/main/Projects/E-Commerce%20SQL%20(2025))
 
 ### 📊Project 8: Tableau Dashboard - eCommerce Data Analysis (2025)
 - A continuation of Project 7, where I compiled and designed a storytelling visualization through dashboard made using Tableau Public
