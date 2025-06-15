@@ -25,8 +25,14 @@ An interpreted, object-oriented, high-level programming language that I mainly u
 	- [Plotly](https://plotly.com/python/): I usually use this one to make an interactive visualization, where viewer can hover their mouse to see more detailed data.  
 
 - [SQL](https://www.w3schools.com/sql/sql_quickref.asp)  
-A language I usually use to write a query on db files. The IDE that I often use to practice is [SQLite Online](https://sqliteonline.com/).  
+A language I usually use to write a query on db and csv files. I'm using [PostgreSQL](https://www.postgresql.org/docs/), it's free and quite powerful!
+Alternatively, you can practice SQL using [SQLite Online](https://sqliteonline.com/) in case you want to try it without installing anything yet.  
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
+
+- Data Visualization
+There are plenty of ways to visualize your analysis; You can either use Python or SQL, or if you'd like a dedicated tool for data visualization, I got your back!
+	- [PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop): There is a free version, although unfortunately I believe you can only export the result as PDF, so not so interactive if you are using the free version.
+	- [Tableau](https://www.tableau.com/community/public): Tableau Public is some sort of a free version as well, you can publish your work and view it online (the link is shareable), but obviously don't do this if you are using confidential data you don't want to show to public.
 
 ## Trying Out Python!
 For starters, I've tried and wrote some important basic essentials of python lines.  
@@ -59,7 +65,17 @@ Below are some of the projects I previously did to practice my Data Analysis:
 - A fully detailed EDA attempt on a real case dataset regarding Youtube Statistics on 2023
 - [Python Implementation](Projects/YoutubeStatistic2023/Python/YoutubeStats2023.ipynb) || [Full Folder](Projects/YoutubeStatistic2023)
 
-### 📊Project 5.5: PowerBI Dashboard - Youtube Statistic 2023
+### 📊Project 6: PowerBI Dashboard - Youtube Statistic 2023
 - I have also made a simple Dashboard showcasing Content Distributions from Project 5 data file using PowerBI.
 - [Dashboard PDF Preview](Projects/YoutubeStatistic2023/PowerBI/YoutubeStatistics2023Dashboard.pdf) || [Full Folder](Projects/YoutubeStatistic2023/PowerBI)
 - **DISCLAIMER**: Unfortunately, I'm using the free version of PowerBI so I couldn't show the published, slicers-interactable Dashboard. Although, I can still show a **PDF preview** of it, feel free to download the **.pbix file on the full folder** if you'd like to see the offline version (interactable) through your own PowerBI!
+
+### 📊Project 7: eCommerce SQL Analysis (2025)
+- A comprehensive progress of data analysis regarding an eCommerce dataset using PostgreSQL and Data Visualization using Python
+- [Full Preview and Instructions](Projects/E-Commerce SQL (2025)/README.md)
+
+### 📊Project 8: Tableau Dashboard - eCommerce Data Analysis (2025)
+- A continuation of Project 7, where I compiled and designed a storytelling visualization through dashboard made using Tableau Public
+- [View Dashboard](https://public.tableau.com/shared/PR7BHCBPJ?:display_count=n&:origin=viz_share_link)
+
+## © 2025 — Ricky Gunawan
