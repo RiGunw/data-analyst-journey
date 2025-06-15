@@ -29,7 +29,7 @@ A language I usually use to write a query on db and csv files. I'm using [Postgr
 Alternatively, you can practice SQL using [SQLite Online](https://sqliteonline.com/) in case you want to try it without installing anything yet.  
 [HackerRank](https://www.hackerrank.com/domains/sql) is also a good place to practice solving some challenges.
 
-- Data Visualization
+- Data Visualization  
 There are plenty of ways to visualize your analysis; You can either use Python or SQL, or if you'd like a dedicated tool for data visualization, I got your back!
 	- [PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop): There is a free version, although unfortunately I believe you can only export the result as PDF, so not so interactive if you are using the free version.
 	- [Tableau](https://www.tableau.com/community/public): Tableau Public is some sort of a free version as well, you can publish your work and view it online (the link is shareable), but obviously don't do this if you are using confidential data you don't want to show to public.
