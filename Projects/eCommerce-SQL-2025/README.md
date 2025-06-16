@@ -19,8 +19,9 @@ eCommerce-SQL-2025/
 |	├──E-Commerce Dashboard.twb	# Tableau Public dashboard file
 |	├──Monthly Revenue Trend.csv	# SQL Query Output for Tableau Visualization
 |	└──Top 5 Countries.csv		# SQL Query Output for Tableau Visualization
-├── ecommerce_analysis.sql      	# SQL table creation script
 ├── README.md                   	# Project explanation
+├── ecommerce_analysis.sql      	# SQL analysis queries
+├── schema.sql                   	# SQL table creation script
 └── sqlpythonanalysis.ipynb     	# Python visualizations
 ```
 
