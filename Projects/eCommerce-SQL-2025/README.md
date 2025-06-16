@@ -62,9 +62,9 @@ Additional charts were created using **Python** (JupyterLab). You can preview th
 
 1. Run `schema.sql` to create the `orders` table
 2. Use `COPY` or pgAdmin import to load `data.csv`
-3. Execute analysis in `queries.sql`
+3. Execute analysis in `ecommerce_analysis.sql`
 4. Use `sqlpythonanalysis.ipynb` to visualize in Python
-5. Open `E-CommerceDashboard.twbx` or visit the dashboard link
+5. Open `E-Commerce Dashboard.twb` or visit the dashboard link
 
 ---
 
