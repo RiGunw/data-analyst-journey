@@ -7,7 +7,7 @@ This project analyzes sales data from an e-commerce business using **PostgreSQL*
 ## 📁 Project Structure
 
 ```
-E-Commerce SQL (2025)/
+eCommerce-SQL-2025/
 ├──📁Backup
 |	└──ecommerce_db.backup		# dataset backup for PostgreSQL
 ├──📁Data
