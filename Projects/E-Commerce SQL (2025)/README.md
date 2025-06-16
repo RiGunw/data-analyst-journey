@@ -9,9 +9,9 @@ This project analyzes sales data from an e-commerce business using **PostgreSQL*
 ```
 E-Commerce SQL (2025)/
 ├──📁Backup
-|	└──ecommerce_db.backup	# dataset backup for PostgreSQL
+|	└──ecommerce_db.backup		# dataset backup for PostgreSQL
 ├──📁Data
-|	└──data.csv		# Raw dataset
+|	└──data.csv			# Raw dataset
 ├──📁Images
 |	├──Jumbo Bag Red Retrospot.png	# Image Asset for the Dashboard
 |	└──London.png			# Image Asset for the Dashboard
