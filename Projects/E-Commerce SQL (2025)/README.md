@@ -8,12 +8,20 @@ This project analyzes sales data from an e-commerce business using **PostgreSQL*
 
 ```
 E-Commerce SQL (2025)/
-├── data.csv                     # Raw dataset
-├── schema.sql                  # SQL table creation script
-├── queries.sql                 # Analysis queries
-├── sqlpythonanalysis.ipynb     # Python visualizations
-├── E-CommerceDashboard.twbx    # Tableau Public dashboard file
-└── README.md                   # Project explanation
+├──📁Backup
+|	└──ecommerce_db.backup		# dataset backup for PostgreSQL
+├──📁Data
+|	└──data.csv					# Raw dataset
+├──📁Images
+|	├──Jumbo Bag Red Retrospot.png
+|	└──London.png
+├──📁Tableau Sources
+|	├──E-Commerce Dashboard.twb	# Tableau Public dashboard file
+|	├──Monthly Revenue Trend.csv# SQL Query Output for Tableau Visualization
+|	└──Top 5 Countries.csv		# SQL Query Output for Tableau Visualization
+├── ecommerce_analysis.sql      # SQL table creation script
+├── README.md                   # Project explanation
+└── sqlpythonanalysis.ipynb     # Python visualizations
 ```
 
 ---
