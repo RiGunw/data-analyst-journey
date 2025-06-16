@@ -11,10 +11,10 @@ E-Commerce SQL (2025)/
 ├──📁Backup
 |	└──ecommerce_db.backup			# dataset backup for PostgreSQL
 ├──📁Data
-|	└──data.csv					# Raw dataset
+|	└──data.csv				# Raw dataset
 ├──📁Images
 |	├──Jumbo Bag Red Retrospot.png	# Image Asset for the Dashboard
-|	└──London.png				# Image Asset for the Dashboard
+|	└──London.png			# Image Asset for the Dashboard
 ├──📁Tableau Sources
 |	├──E-Commerce Dashboard.twb	# Tableau Public dashboard file
 |	├──Monthly Revenue Trend.csv	# SQL Query Output for Tableau Visualization
